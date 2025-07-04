@@ -1,1 +1,22 @@
+body {
+    background-color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    padding: 0%;
+    margin: auto;
+}
+
+p {
+    font-size: medium;
+}
+
+form {
+    border-radius: 0%;
+}
+
+footer {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: #000;;
+}
 
